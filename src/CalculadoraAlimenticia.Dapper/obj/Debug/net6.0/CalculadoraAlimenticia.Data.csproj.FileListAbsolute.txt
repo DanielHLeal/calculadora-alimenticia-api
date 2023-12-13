@@ -1,0 +1,17 @@
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\obj\Debug\net6.0\CalculadoraAlimenticia.Data.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\obj\Debug\net6.0\CalculadoraAlimenticia.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\obj\Debug\net6.0\CalculadoraAlimenticia.Data.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\obj\Debug\net6.0\CalculadoraAlimenticia.Data.AssemblyInfo.cs
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\obj\Debug\net6.0\CalculadoraAlimenticia.Data.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\bin\Debug\net6.0\CalculadoraAlimenticia.Data.deps.json
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\bin\Debug\net6.0\CalculadoraAlimenticia.Data.runtimeconfig.json
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\bin\Debug\net6.0\CalculadoraAlimenticia.Data.dll
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\bin\Debug\net6.0\CalculadoraAlimenticia.Data.pdb
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\bin\Debug\net6.0\CalculadoraAlimenticia.Domain.dll
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\bin\Debug\net6.0\CalculadoraAlimenticia.Domain.pdb
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\obj\Debug\net6.0\CalculadoraAlimenticia.Data.csproj.CopyComplete
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\obj\Debug\net6.0\CalculadoraAlimenticia.Data.dll
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\obj\Debug\net6.0\refint\CalculadoraAlimenticia.Data.dll
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\obj\Debug\net6.0\CalculadoraAlimenticia.Data.pdb
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\obj\Debug\net6.0\CalculadoraAlimenticia.Data.genruntimeconfig.cache
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\obj\Debug\net6.0\ref\CalculadoraAlimenticia.Data.dll

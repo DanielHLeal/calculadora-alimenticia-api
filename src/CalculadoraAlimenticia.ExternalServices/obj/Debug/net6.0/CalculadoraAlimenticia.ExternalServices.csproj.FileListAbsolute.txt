@@ -1,0 +1,12 @@
+C:\Users\danie\source\repos\ECommerce\Ecommerce.ExternalServices\bin\Debug\net6.0\CalculadoraAlimenticia.ExternalServices.deps.json
+C:\Users\danie\source\repos\ECommerce\Ecommerce.ExternalServices\bin\Debug\net6.0\CalculadoraAlimenticia.ExternalServices.dll
+C:\Users\danie\source\repos\ECommerce\Ecommerce.ExternalServices\bin\Debug\net6.0\CalculadoraAlimenticia.ExternalServices.pdb
+C:\Users\danie\source\repos\ECommerce\Ecommerce.ExternalServices\obj\Debug\net6.0\CalculadoraAlimenticia.ExternalServices.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\ECommerce\Ecommerce.ExternalServices\obj\Debug\net6.0\CalculadoraAlimenticia.ExternalServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\ECommerce\Ecommerce.ExternalServices\obj\Debug\net6.0\CalculadoraAlimenticia.ExternalServices.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ECommerce\Ecommerce.ExternalServices\obj\Debug\net6.0\CalculadoraAlimenticia.ExternalServices.AssemblyInfo.cs
+C:\Users\danie\source\repos\ECommerce\Ecommerce.ExternalServices\obj\Debug\net6.0\CalculadoraAlimenticia.ExternalServices.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ECommerce\Ecommerce.ExternalServices\obj\Debug\net6.0\CalculadoraAlimenticia.ExternalServices.dll
+C:\Users\danie\source\repos\ECommerce\Ecommerce.ExternalServices\obj\Debug\net6.0\refint\CalculadoraAlimenticia.ExternalServices.dll
+C:\Users\danie\source\repos\ECommerce\Ecommerce.ExternalServices\obj\Debug\net6.0\CalculadoraAlimenticia.ExternalServices.pdb
+C:\Users\danie\source\repos\ECommerce\Ecommerce.ExternalServices\obj\Debug\net6.0\ref\CalculadoraAlimenticia.ExternalServices.dll

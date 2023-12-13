@@ -1,0 +1,17 @@
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\bin\Debug\net6.0\Ecommerce.Dapper.deps.json
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\bin\Debug\net6.0\Ecommerce.Dapper.dll
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\bin\Debug\net6.0\Ecommerce.Dapper.pdb
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\bin\Debug\net6.0\Ecommerce.Domain.dll
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\bin\Debug\net6.0\Ecommerce.Domain.pdb
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\obj\Debug\net6.0\Ecommerce.Dapper.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\obj\Debug\net6.0\Ecommerce.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\obj\Debug\net6.0\Ecommerce.Dapper.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\obj\Debug\net6.0\Ecommerce.Dapper.AssemblyInfo.cs
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\obj\Debug\net6.0\Ecommerce.Dapper.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\obj\Debug\net6.0\Ecommerce.Dapper.csproj.CopyComplete
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\obj\Debug\net6.0\Ecommerce.Dapper.dll
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\obj\Debug\net6.0\refint\Ecommerce.Dapper.dll
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\obj\Debug\net6.0\Ecommerce.Dapper.pdb
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\obj\Debug\net6.0\ref\Ecommerce.Dapper.dll
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\bin\Debug\net6.0\Ecommerce.Dapper.runtimeconfig.json
+C:\Users\danie\source\repos\ECommerce\Ecommerce.Dapper\obj\Debug\net6.0\Ecommerce.Dapper.genruntimeconfig.cache

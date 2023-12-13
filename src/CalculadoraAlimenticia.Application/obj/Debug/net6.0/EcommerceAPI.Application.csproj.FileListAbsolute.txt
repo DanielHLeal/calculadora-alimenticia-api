@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\ECommerce\EcommerceAPI.Application\bin\Debug\net6.0\EcommerceAPI.Application.deps.json
+C:\Users\danie\source\repos\ECommerce\EcommerceAPI.Application\bin\Debug\net6.0\EcommerceAPI.Application.dll
+C:\Users\danie\source\repos\ECommerce\EcommerceAPI.Application\bin\Debug\net6.0\EcommerceAPI.Application.pdb
+C:\Users\danie\source\repos\ECommerce\EcommerceAPI.Application\bin\Debug\net6.0\Ecommerce.Domain.dll
+C:\Users\danie\source\repos\ECommerce\EcommerceAPI.Application\bin\Debug\net6.0\Ecommerce.Domain.pdb
+C:\Users\danie\source\repos\ECommerce\EcommerceAPI.Application\obj\Debug\net6.0\EcommerceAPI.Application.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\ECommerce\EcommerceAPI.Application\obj\Debug\net6.0\EcommerceAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\ECommerce\EcommerceAPI.Application\obj\Debug\net6.0\EcommerceAPI.Application.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ECommerce\EcommerceAPI.Application\obj\Debug\net6.0\EcommerceAPI.Application.AssemblyInfo.cs
+C:\Users\danie\source\repos\ECommerce\EcommerceAPI.Application\obj\Debug\net6.0\EcommerceAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ECommerce\EcommerceAPI.Application\obj\Debug\net6.0\EcommerceAPI.Application.csproj.CopyComplete
+C:\Users\danie\source\repos\ECommerce\EcommerceAPI.Application\obj\Debug\net6.0\EcommerceAPI.Application.dll
+C:\Users\danie\source\repos\ECommerce\EcommerceAPI.Application\obj\Debug\net6.0\refint\EcommerceAPI.Application.dll
+C:\Users\danie\source\repos\ECommerce\EcommerceAPI.Application\obj\Debug\net6.0\EcommerceAPI.Application.pdb
+C:\Users\danie\source\repos\ECommerce\EcommerceAPI.Application\obj\Debug\net6.0\ref\EcommerceAPI.Application.dll
